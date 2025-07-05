@@ -1,0 +1,22 @@
+body {
+    background-color:antiquewhite;
+    /* color:blue; */
+    text-align:center;
+    font-family:Inter;
+}
+
+img {
+    border-radius:10px;
+}
+
+#code {
+    background-color:rgb(96, 63, 20);
+    color:white;
+    padding:1rem 2rem;
+    border-radius:50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
